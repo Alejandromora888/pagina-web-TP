@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+
+<body  bgcolor=lightblue>
+
+    <center>  <h1> <u>Caracter&iacute;sticas T&eacute;cnicas </u> </h1>
+
+    <br>
+
+    <p> 
+        <br>Caracter&iacute;sticas del Arduino Leonardo
+        <br>Microcontrolador: ATmega32u4
+        <br>Tensi&oacute;n de funcionamiento: 5V
+        <br>Alimentaci&oacute;n recomendada: 7-12V
+        <br>Pines I/O Digitales: 20
+        <br>Canales PWM: 7
+        <br>Entradas anal&oacute;gicas: 12
+        <br>Corriente M&aacute;xima de los pines I/O: 40 mA
+        <br>Corriente M&aacute;xima de los pines 3.3V: 50 mA
+        <br>Memoria Flash: 32 KB (4 KB usados para el bootloader)
+        <br>SRAM: 2.5 KB
+        <br>EEPROM interna: 1 KB
+        <br>Velocidad: 16 MHz
+        <br>Peso: 20 gramos
+
+        <p>Una de las ventajas de este nuevo microcontrolador es que dispone de USB nativo por hardware y por lo tanto no necesita de ning&uacute;n conversi&oacute;n serie-USB. Tambi&eacute;n permite a la placa ser utilizada y programada como un dispositivo de entrada para emular un teclado, rat&oacute;n etc. Soporta 12 entradas anal&oacute;gicas y dado que el puerto de comunicaci&oacute;n USB es emulado, deja el puerto serial hardware libre para la programaci&oacute;n. De esta forma ya no ocurren conflictos de programaci&oacute;n mientras tenemos perif&eacute;ricos serial conectados a la placa.</p>
+
+        <br>
+
+        <img src="https://miro.medium.com/v2/resize:fit:720/0*p2M6WXvU4wKuWuTZ"><div align="center"></center>
