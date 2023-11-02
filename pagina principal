@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+
+<body  bgcolor=skyblue>
+       
+   <br>
+   
+   <center> <h1>   <u> HISTORIA DE ARDUINO </u>  </h1>
+   
+   <br>
+
+   <p>Arduino es una compa&ntilde;&iacute;a de desarrollo de software y hardware libres, as&iacute; como una comunidad internacional que dise&ntilde;a y manufactura placas de desarrollo de hardware para construir dispositivos digitales y dispositivos interactivos que puedan detectar y controlar objetos del mundo real. Arduino se enfoca en acercar y facilitar el uso de la electr&oacute;nica y programaci&oacute;n de sistemas embebidos en proyectos multidisciplinarios. Los productos que vende la compa&ntilde;&iacute;a son distribuidos como hardware y software libre, bajo la Licencia P&uacute;blica General de GNU (GPL) y la Licencia P&uacute;blica General Reducida de GNU (LGPL),permitiendo la manufactura de las placas Arduino y distribuci&oacute;n del software por cualquier individuo.Los dise&ntilde;os de las placas Arduino usan diversos microcontroladores y microprocesadores. Generalmente el hardware consiste de un microcontrolador Atmel AVR, conectado bajo la configuraci&oacute;n de «sistema m&iacute;nimo» sobre una placa de circuito impreso a la que se le pueden conectar placas de expansi&oacute;n (shields) a trav&eacute;s de la disposici&oacute;n de los puertos de entrada y salida presentes en la placa seleccionada. Las shields complementan la funcionalidad del modelo de placa empleada, agregando circuiter&iacute;a, sensores y m&oacute;dulos de comunicaci&oacute;n externos a la placa original. La mayor&iacute;a de las placas Arduino pueden ser alimentadas por un puerto USB o un puerto barrel Jack de 2.5 mm. La mayor&iacute;a de las placas Arduino pueden ser programadas a trav&eacute;s del puerto serie que incorporan haciendo uso del Bootloader que traen programado por defecto. El software de Arduino consiste de dos elementos: un entorno de desarrollo (IDE) (basado en el entorno de processing y en la estructura del lenguaje de programaci&oacute;n Wiring), y en el cargador de arranque (bootloader, por su traducci&oacute;n al ingl&eacute;s) que es ejecutado de forma autom&aacute;tica dentro del microcontrolador en cuanto este se enciende. Las placas Arduino se programan mediante un computador, usando comunicaci&oacute;n serie.</p>
+
+   <br>
+
+   <img src="https://robots-argentina.com.ar/didactica/wp-content/uploads/varios-modelos.png"></center>
+
+   <br>
+
+   <p><a href="pagina 1.html"> Caracter&iacute;sticas T&eacute;cnicas </a></p>
+   <p><a href="Pagina 2.html"> Como programar arduino</a></p>
+
+
