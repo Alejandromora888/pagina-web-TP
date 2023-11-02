@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+
+<body  bgcolor=lavender>
+
+<center> <h1> <u> Como programar Arduino</u> </h1>
+
+<br>
+     
+<p>La programaci&oacute;n de Arduino es la programaci&oacute;n de un microcontrolador. Esto era algo m&aacute;s de los ingenieros electr&oacute;nicos, pero Arduino lo ha extendido a todo el p&uacute;blico. Arduino ha socializado la tecnolog&iacute;a. Programar Arduino consiste en traducir a l&iacute;neas de c&oacute;digo las tareas automatizadas que queremos hacer leyendo de los sensores y en funci&oacute;n de las condiciones del entorno programar la interacci&oacute;n con el mundo exterior mediante unos actuadores.Arduino proporciona un entorno de programaci&oacute;n sencillo y potente para programar, pero adem&aacute;s incluye las herramientas necesarias para compilar el programa y “quemar” el programa ya compilado en la memoria flash del microcontrolador. Adem&aacute;s el  IDE nos ofrece un sistema de gesti&oacute;n de librer&iacute;as y placas muy pr&aacute;ctico.Para empezar a programar la placa Arduino es necesario descargar un IDE (Integrated Development Environment). El IDE es un conjunto de herramientas de software que permiten a los programadores desarrollar y grabar todo el c&oacute;digo necesario para hacer que nuestro Arduino funcione como queramos.</p>
+
+<br>
+
+<p>Estructura de un Sketch
+
+<br> Un programa de Arduino se denomina sketch o proyecto y tiene la extensi&oacute;n .ino. Importante: para que funcione el sketch, el nombre del fichero debe estar en un directorio con el mismo nombre que el sketch. No es necesario que un sketch est&eacute; en un &uacute;nico fichero, pero si es imprescindible que todos los ficheros est&eacute;;n dentro del mismo directorio que el fichero principal.</p>
+
+<img src="https://learn.robolink.com/wp-content/uploads/2020/11/Void-setup-and-void-loop-487x594.png"><div align="center"></center>
+
+<br>
+
+<p>La estructura b&aacute;sica de un sketch de Arduino es bastante simple y se compone de al menos dos partes. Estas dos partes son obligatorios y encierran bloques que contienen declaraciones, estamentos o instrucciones.</p>
+<br>setup()
+<br>loop()
+
+<br>
+
+<p>setup() es la parte encargada de recoger la configuraci&oacute;n y loop() es la que contiene el programa que se ejecuta c&iacute;clicamente (de ah&iacute; el t&eacute;rmino loop bucle). Ambas funciones son necesarias para que el programa trabaje.</p>
+
+<br>
+
+<p>Adicionalmente se puede incluir una introducci&oacute;n con los comentarios que describen el programa y la declaraci&oacute;n de las variables y llamadas a librer&iacute;as</p>
+
+<br>
+
+<img src="https://aprendiendoarduino.files.wordpress.com/2014/11/435ee-arduino-sketch-blink-anno-1024x844.png?w=625&h=515"><div align="center"></center>
